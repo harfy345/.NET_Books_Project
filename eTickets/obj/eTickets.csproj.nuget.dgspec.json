@@ -47,6 +47,14 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.SqlServer.Server": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [
